@@ -20,7 +20,7 @@ a {
 }
 
 h2 {
-  font-weight: 300;
+  font-weight: bold;
   font-size: 42px;
   color: #ffffff;
 }
@@ -28,4 +28,10 @@ h2 {
 p {
   font-size: 21px;
   color: gray;
+}
+
+footer {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
